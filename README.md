@@ -1,6 +1,6 @@
 Blueprint Build System
 ======================
-[![Build Status](https://travis-ci.org/google/blueprint.svg?branch=master)](https://travis-ci.org/google/blueprint) 
+[![Build Status](https://travis-ci.org/Tiger66639/blueprint.svg)](https://travis-ci.org/Tiger66639/blueprint)
 
 Blueprint is a meta-build system that reads in Blueprints files that describe
 modules that need to be built, and produces a
